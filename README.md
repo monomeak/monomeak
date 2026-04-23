@@ -10,10 +10,10 @@
 
 ## 📌 Projects
 
-- 🔖 **Inventory Management System**– A full-stack inventory and product management system built with Vue.js for the frontend, Java Spring Boot for RESTful backend services, and PostgreSQL for data persistence.
-- 🌐 **E-commerce Site** – Built with Laravel and Vue.js, includes product management, user auth, and order history.
-- 📲 **Local Job Board** – A Laravel-based platform to connect freelancers and employers in the local community.
-- ✅ **Todo Management Application** – A full-stack todo application developed with **Next.js** on the frontend and **Java Spring Boot** on the backend, using **PostgreSQL** for data storage. The system implements **JWT-based authentication** and is fully **containerized with Docker** for consistent deployment.
+- **Inventory Management System**– A full-stack inventory and product management system built with Vue.js for the frontend, Java Spring Boot for RESTful backend services, and PostgreSQL for data persistence.
+- **E-commerce Site** – Built with Laravel and Vue.js, includes product management, user auth, and order history.
+- **Local Job Board** – A Laravel-based platform to connect freelancers and employers in the local community.
+- **Todo Management Application** – A full-stack todo application developed with **Next.js** on the frontend and **Java Spring Boot** on the backend, using **PostgreSQL** for data storage. The system implements **JWT-based authentication** and is fully **containerized with Docker** for consistent deployment.
 
 
 
