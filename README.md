@@ -1,17 +1,14 @@
 # Hi, I'm Sokmeak 👋
-
-🎓 I am a 5th-year IT student at the Institute of Technology of Cambodia, majoring in Information and Communication Engineering.
-
-💡 I am passionate about full-stack web development, with a strong interest in designing, building, and maintaining scalable web applications. I enjoy translating real-world problems into practical, reliable digital solutions.
-
-🛠️ My experience spans both frontend and backend development, where I focus on clean architecture, maintainable code, and efficient system design. I am particularly interested in modern web technologies, RESTful APIs, and database-driven applications.
-
-🚀 I continuously seek to improve my technical skills through hands-on projects, learning new technologies, and applying best practices in software engineering.
-
-## 📌 Projects
+I hold a degree in Information and Communication Engineering from the **Institute of Technology of Cambodia**.
+ 
+I am a full-stack web developer with a strong interest in designing, building, and maintaining scalable web applications. I enjoy translating real-world problems into practical, reliable digital solutions.
+ 
+My experience spans both frontend and backend development, with a focus on clean architecture, maintainable code, and efficient system design. I am particularly interested in modern web technologies, RESTful APIs, and database-driven applications.
+ 
+I continuously work to improve my technical skills through hands-on projects, learning new technologies, and applying best practices in software engineering.
+## Projects
 
 - **Inventory Management System**– A full-stack inventory and product management system built with Vue.js for the frontend, Java Spring Boot for RESTful backend services, and PostgreSQL for data persistence.
-- **E-commerce Site** – Built with Vue.js, includes product management, user auth, and order history.
 - **Job Board Hunter** – is a modern job search and recruitment platform designed to efficiently connect job seekers with employers. The platform streamlines the hiring process by providing dedicated tools for applicants, employers, and administrators, ensuring a reliable and well-managed recruitment ecosystem. 
 - **Todo Management Application** – A full-stack todo application developed with **Next.js** on the frontend and **ExpressJs** on the backend, using **PostgreSQL** for data storage. The system implements **JWT-based authentication** and is fully **containerized with Docker** for consistent deployment.
 
