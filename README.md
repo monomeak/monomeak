@@ -1,7 +1,7 @@
 # Hi, I'm Sokmeak 👋
 I hold a degree in Information and Communication Engineering from the **Institute of Technology of Cambodia**.
  
-I am a full-stack web developer with a strong interest in designing, building, and maintaining scalable web applications. I enjoy translating real-world problems into practical, reliable digital solutions.
+I am a software engineer with a strong interest in designing, building, and maintaining scalable web applications. I enjoy translating real-world problems into practical, reliable digital solutions.
  
 My experience spans both frontend and backend development, with a focus on clean architecture, maintainable code, and efficient system design. I am particularly interested in modern web technologies, RESTful APIs, and database-driven applications.
  
